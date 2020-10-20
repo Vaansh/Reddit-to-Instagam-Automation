@@ -6,3 +6,6 @@ Both the methods use Selenium which is an open source web based automation tool.
 * The second one uses pyautogui which can be configured to work with any system with minor edits to the code. 
 
 Read the requirements.txt for both the different methods and check out the [examples](https://github.com/Vaansh/Reddit-to-Instagam-Automation/tree/master/resize%20image%20examples) of the size imaging to find out how the algorithm to resize the image works.
+
+Python version used: 3.7.7
+OS used: macOS Catalina (Version 10.15.6)
