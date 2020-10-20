@@ -4,7 +4,3 @@ pip3 install Image
 pip3 install urllib
 pip3 install subprocess
 pip3 install time
-
-
-Python version used: 3.7.7
-OS used: macOS Catalina (Version 10.15.6)
