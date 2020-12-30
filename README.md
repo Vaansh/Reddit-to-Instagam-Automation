@@ -1,5 +1,5 @@
 # Reddit to Instagam Automation
-This repository consist of two different ways to automate the process of downloading posts from Reddit and uploading them to Instagram posts. 
+This repository consist of two different ways to automate the process of downloading posts from Reddit and uploading them to Instagram as posts. 
 
 Both the methods use Selenium which is an open source web based automation tool. 
 * The first one uses an AppleScript that is called through python, which works only with MacOS, which may be obvious. This is the primary method I use.
