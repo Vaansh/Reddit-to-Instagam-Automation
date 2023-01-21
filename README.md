@@ -1,3 +1,9 @@
+**A Note for the Reader**: The final version of this project that was deployed to an EC2 instance was tweaked quite heavily and is not hosted online. This project got increasingly difficult to maintain due to Instagram's strict policies against automated posting.
+
+**Future plans**: To build a scalable system for short form videos following a similar idea of content redistribution (with credit) across multiple platforms using the knowledge I have acquired since. This project is currently in the R&D phase.
+
+---
+
 # Reddit to Instagam Automation
 This repository consist of two different ways to automate the process of downloading posts from Reddit and uploading them to Instagram as posts. 
 
