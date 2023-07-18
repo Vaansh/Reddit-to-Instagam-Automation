@@ -2,6 +2,8 @@
 
 **Future plans**: To build a scalable system for short form videos following a similar idea of content redistribution (with credit) across multiple platforms using the knowledge I have acquired since. This project is currently in the R&D phase.
 
+**E:** New project is [here](https://github.com/vaansh/gore/) :)
+
 ---
 
 # Reddit to Instagam Automation
